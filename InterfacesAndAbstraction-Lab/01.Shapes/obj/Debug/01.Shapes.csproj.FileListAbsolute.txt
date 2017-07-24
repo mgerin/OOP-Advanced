@@ -1,6 +1,0 @@
-D:\Stuff\SoftUni\2017-OOP-Advanced\Projects\InterfacesAndAbstraction-Lab\01.Shapes\obj\Debug\01.Shapes.csprojResolveAssemblyReference.cache
-D:\Stuff\SoftUni\2017-OOP-Advanced\Projects\InterfacesAndAbstraction-Lab\01.Shapes\bin\Debug\01.Shapes.exe.config
-D:\Stuff\SoftUni\2017-OOP-Advanced\Projects\InterfacesAndAbstraction-Lab\01.Shapes\bin\Debug\01.Shapes.exe
-D:\Stuff\SoftUni\2017-OOP-Advanced\Projects\InterfacesAndAbstraction-Lab\01.Shapes\bin\Debug\01.Shapes.pdb
-D:\Stuff\SoftUni\2017-OOP-Advanced\Projects\InterfacesAndAbstraction-Lab\01.Shapes\obj\Debug\01.Shapes.exe
-D:\Stuff\SoftUni\2017-OOP-Advanced\Projects\InterfacesAndAbstraction-Lab\01.Shapes\obj\Debug\01.Shapes.pdb

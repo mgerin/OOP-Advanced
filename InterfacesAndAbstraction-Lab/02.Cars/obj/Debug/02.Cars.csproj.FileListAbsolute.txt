@@ -1,5 +1,0 @@
-D:\Stuff\SoftUni\2017-OOP-Advanced\Projects\InterfacesAndAbstraction-Lab\02.Cars\bin\Debug\02.Cars.exe.config
-D:\Stuff\SoftUni\2017-OOP-Advanced\Projects\InterfacesAndAbstraction-Lab\02.Cars\bin\Debug\02.Cars.exe
-D:\Stuff\SoftUni\2017-OOP-Advanced\Projects\InterfacesAndAbstraction-Lab\02.Cars\bin\Debug\02.Cars.pdb
-D:\Stuff\SoftUni\2017-OOP-Advanced\Projects\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\02.Cars.exe
-D:\Stuff\SoftUni\2017-OOP-Advanced\Projects\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\02.Cars.pdb
